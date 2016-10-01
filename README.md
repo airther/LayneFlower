@@ -22,6 +22,10 @@ How?
 https://support.cloudflare.com/hc/en-us/articles/209833347-How-to-add-a-DS-record-to-Namecheap
 
 
+domain email
+Zoho
+Didn't use mailgun because I had a temporary account lock while signing up. Consider going back to Mailgun instead.
+
 Added canonical tag to header to point to https site.
 
 
