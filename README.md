@@ -23,3 +23,6 @@ https://support.cloudflare.com/hc/en-us/articles/209833347-How-to-add-a-DS-recor
 
 
 Added canonical tag to header to point to https site.
+
+
+If I decide to migrate off of Github pages to a "real" server, use NearlyFreeSpech.net
